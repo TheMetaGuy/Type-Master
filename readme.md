@@ -1,7 +1,9 @@
-# ** This package has been deprecated - Please use TypeAnalyser**
-[Type-Analyser Repository](https://github.com/TheMetaGuy/Type-Analyser)
+# **This library has been deprecated - Please use TypeAnalyser**
+## **[TypeAnalyser Repository](https://github.com/TheMetaGuy/Type-Analyser)**
 
-# **Type-Master**
+-----
+
+## *Type-Master*
 
 ![Functions](https://raw.githubusercontent.com/TheMetaGuy/Type-Master/master/tests/coverage/badge-functions.svg)
 ![Branches](https://raw.githubusercontent.com/TheMetaGuy/Type-Master/master/tests/coverage/badge-branches.svg)

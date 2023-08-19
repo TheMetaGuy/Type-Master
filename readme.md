@@ -6,6 +6,8 @@
 ![npm](https://img.shields.io/npm/v/type-master)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/type-master)
 
+#* This package has been deprecated - Please use TypeAnalyser*
+[Type-Analyser Repository](https://github.com/TheMetaGuy/Type-Analyser)
 
 ## **What is Type-Master?**
 -----
